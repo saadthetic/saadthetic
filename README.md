@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am passionate about leveraging technology to cre
 
 My aim to become a member of a dynamic syndicate. Where Ican actively learn and enhance y skills in the realm of IT. I spend time to share my knowledge and skills, So I can sharpen myself and learn more and more.
 
-- 🔭 **Current Role**: CEO/Director at [Syndicate Of Solutions](mailto:syndicateofsolutions@gmail.com), Derby, UK - an IT company specializing in tailored digital commerce, marketing solutions and IT Mastery.
+- 🔭 **Current Role**: CEO/Director at [Syndicate Of Solutions](mailto:syndicateofsolutions@gmail.com) - an IT company specializing in tailored digital commerce, marketing solutions and IT Mastery.
 - 📚 **Education**: Bachelor in Software Engineering (2021 - 2025).
 - 🌱 **Skills**: Ethical Hacking & Cyber Security, Multi-0S Pro & Technical All-rounder, Digital Alchemist in Commerce & Marketing, Web & App Development, Networking, and more.
 - 🌍 **Location**: Montgomery.
