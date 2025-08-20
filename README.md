@@ -2,15 +2,18 @@
 
 **Entrepreneur | Developer | IT Enthusiast**
 
-Welcome to my GitHub profile! I am passionate about leveraging technology to create innovative solutions and driving impact through IT and digital commerce. With a blend of entrepreneurial experience and technical skills, I aim to make a difference in the ever-evolving tech world.
+Welcome to my GitHub profile! I am passionate about leveraging technology to create innovative solutions and driving impact through IT and digital commerce. With a blend of entrepreneurial experience and technical skills, I aim to make a difference in the ever-evolving tech world with
+Software Engineer | Full Stack Web & Native Developer | Embedded System Engineer & IoT Developer | Ethical Hacking & CyberSecurity | Digital Commerce & Marketing Alchemist | Multi-Os Pro & Technical All-Rounder |
 
 ## 🌟 About Me
 
-My aim to become a member of a dynamic syndicate. Where Ican actively learn and enhance y skills in the realm of IT. I spend time to share my knowledge and skills, So I can sharpen myself and learn more and more.
+My aim is to become a member of a dynamic syndicate. Where I can actively learn and enhance my skills in the realm of technology. I spend time sharing my knowledge and skills, so I can sharpen myself and learn more and more !!
+
+My journey as an engineer and developer has been anything but linear, and that's my greatest strength. I started with a deep dive into embedded systems and IoT, which gave me a fundamental understanding of how technology interacts with the physical world. I then expanded into full-stack web and native development in modern languages, building the applications and user experiences that bring those systems to life. My dedication to ethical hacking and cybersecurity ensures that everything I build is secure and reliable.
+This unique fusion of skills allows me to act as a technical all-rounder, crafting comprehensive solutions that span from code to digital commerce.
 
 - 🔭 **Current Role**: CEO/Director at [Syndicate Of Solutions](mailto:syndicateofsolutions@gmail.com) - an IT company specializing in tailored digital commerce, marketing solutions and IT Mastery.
-- 📚 **Education**: Bachelor in Software Engineering.
-- 🌱 **Skills**: Ethical Hacking & Cyber Security, Multi-0S Pro & Technical All-rounder, Digital Alchemist in Commerce & Marketing, Web & App Development, Networking, and more.
+- 📚 **Education**: Graduation in Software Engineering.
 - 🌍 **Location**: Montgomery.
 
 ## 📜 Certifications
@@ -29,6 +32,5 @@ My aim to become a member of a dynamic syndicate. Where Ican actively learn and 
 - 🔗 LinkedIn: [linkedin.com/in/saadthetic](https://linkedin.com/in/saadthetic)  
 - 📷 Instagram: [instagram.com/saadthetic](https://instagram.com/saadthetic)  
 
----
 
 ⭐️ *Let's collaborate and innovate together in the world of technology!* ⭐️
